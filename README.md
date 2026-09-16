@@ -292,8 +292,38 @@ Create the required environment variables before running the project.
 
 ---
 
+## 👥 Contributing
+
+This project was developed collaboratively as part of the **Infosys Springboard Internship** by **Team-01**.
+
+| Contributor | Primary Contribution |
+|-------------|----------------------|
+| **Kartik Garg** | Frontend development, API integration, and backend integration |
+| **Bhavya Rai** | Frontend development and UI implementation |
+| **Imran S** | Backend development and API implementation |
+| **Bhavinaya Shri** | Backend development and business logic implementation |
+| **Samridhi Prakash** | Database design, schema management, and data integration |
+| **Mithun** | Database design, migrations, and data management |
+
+**Mentored by:** **Springboard Mentor (Infosys Springboard)**
+
+### 🤝 Development Workflow
+
+- Collaborative development using Git and GitHub.
+- Feature branches merged into the `develop` branch.
+- Database versioning managed with Flyway.
+- Spring Boot powered the backend services, while React + Vite delivered the frontend experience.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
 <div align="center">
 
-⭐ If you found this project interesting, consider giving it a **Star**.
+### ⭐ If you found this project interesting, consider giving it a star!
 
 </div>
