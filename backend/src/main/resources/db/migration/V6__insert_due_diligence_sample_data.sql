@@ -1,0 +1,2 @@
+-- V6 sample data is intentionally skipped.
+-- Real due-diligence data will be created through the application APIs.
