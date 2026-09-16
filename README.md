@@ -1,4 +1,8 @@
+<div align="center">
+  
 # 🏡 Real Estate Due Diligence Platform
+
+</div>
 
 <div align="center">
 
@@ -303,9 +307,9 @@ This project was developed collaboratively as part of the **Infosys Springboard 
 | **Imran S** | Backend development and API implementation |
 | **Bhavinaya Shri** | Backend development and business logic implementation |
 | **Samridhi Prakash** | Database design, schema management, and data integration |
-| **Mithun** | Database design, migrations, and data management |
+| **Mithun A** | Database design, migrations, and data management |
 
-**Mentored by:** **Springboard Mentor (Infosys Springboard)**
+**Mentored by:** **springboardmentor198 (Infosys Springboard)**
 
 ### 🤝 Development Workflow
 
